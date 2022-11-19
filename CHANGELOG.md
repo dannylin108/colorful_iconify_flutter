@@ -1,6 +1,10 @@
+## 0.0.4
+
+- Fix Null Safety Issue
+
 ## 0.0.3
 
-- update icons
+- Update Icons
 
 ## 0.0.2
 
